@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31912.275
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StimulsoftPdfExporterSample", "StimulsoftPdfExporterSample\StimulsoftPdfExporterSample.csproj", "{D802C8C0-C1AF-4FA2-AB90-A126FCA921DE}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StimulsoftReportEngine.NetCore.PdfExpoerter", "Stimulsoft.Reports.Engine.NetCore.PdfExpoerter\StimulsoftReportEngine.NetCore.PdfExpoerter.csproj", "{60C412C0-76AB-4E1B-91C5-5F4C42F8989E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D802C8C0-C1AF-4FA2-AB90-A126FCA921DE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D802C8C0-C1AF-4FA2-AB90-A126FCA921DE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D802C8C0-C1AF-4FA2-AB90-A126FCA921DE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D802C8C0-C1AF-4FA2-AB90-A126FCA921DE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{60C412C0-76AB-4E1B-91C5-5F4C42F8989E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{60C412C0-76AB-4E1B-91C5-5F4C42F8989E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{60C412C0-76AB-4E1B-91C5-5F4C42F8989E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{60C412C0-76AB-4E1B-91C5-5F4C42F8989E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E2A6B0E7-5334-4CBC-B4A5-D08C89E89C47}
+	EndGlobalSection
+EndGlobal
